@@ -102,6 +102,7 @@
   /* MOBILE NAVIGATION */
   .btn-mobile-nav {
     display: block;
+    z-index: 999;
   }
   html,
   body {
