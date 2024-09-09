@@ -1,0 +1,10 @@
+Sections:-
+1)Logo+Navigation
+Hero
+2)Featured in(icons...)
+3)How it works
+4)Meals(and list of diets)
+5)Testimonials+gallery
+6)Pricing+Features
+7)CTA(calltoaction signup)
+8)Footer
